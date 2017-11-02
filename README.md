@@ -1,7 +1,7 @@
 # R
 # DSA 5103 - Intelligent Data Analytics
 
-Project 1:
+Homework 1:
 Data Exploration and Visualization (R) (August 2017)
 
 A Shark Attacks data set containing current and historical data
